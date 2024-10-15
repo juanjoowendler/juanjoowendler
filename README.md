@@ -1,5 +1,5 @@
 <div id="header" align="right">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExajdleW94ZzJpNXJsenpma3JwNzdhaTUxMHdjc3Frb2NweTVvZmN5dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xT9IgHV9M7q4P8rKx2/giphy.webp" width="65"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDMzM2JnZ25nN2ZpcjdmYm5tbDM3YzkxN29ja3B5ZTEzM3NoYmo0byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eRmCA78kINM9GzhMSu/giphy.webp" width="60"/>
   <img 
  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDMzM2JnZ25nN2ZpcjdmYm5tbDM3YzkxN29ja3B5ZTEzM3NoYmo0byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eRmCA78kINM9GzhMSu/giphy.webp" width="60"/>
   <img 
@@ -19,14 +19,15 @@ Hey You! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/b
 Full Stack Developer and Designer 🎨💻
 --------------------------------------
 
-I'm an advanced student in Information Systems Engineering with hands-on experience in Full Stack development and design. I've worked on projects utilizing React, Node.js, and Python, and I'm passionate about exploring new technologies and methodologies. I thrive on solving complex problems and enjoy collaborating on innovative projects. 🚀✨
+> I'm an advanced student in Information Systems Engineering with hands-on experience in Full Stack development and design. I've worked on projects utilizing React, Node.js, > and Python, and I'm passionate about exploring new technologies and methodologies. I thrive on solving complex problems and enjoy collaborating on innovative projects. 🚀 ✨
 
-* 🌍  I'm based in Argentina 🔵⚪🔵
-* ✉️  You can contact me at [juanjoowendler@gmail.com](mailto:juanjoowendler@gmail.com)
-* 🧠  I'm learning New technologies and frameworks in the development field. 📚🤖
-* 🤝  I'm open to collaborating on Engaging projects in web development, Data Science, or AI. 💡✨
-* ⚡  I love cats! 🐱💕
+## About Me 🌍
 
+🌍 I'm based in Argentina 🔵⚪🔵  
+✉️ You can contact me at [juanjoowendler@gmail.com](mailto:juanjoowendler@gmail.com)  
+🧠 I'm learning new technologies and frameworks in the development field. 📚🤖  
+🤝 I'm open to collaborating on engaging projects in web development, data science, or AI. 💡✨  
+⚡ I love cats! 🐱💕
 
 
 
