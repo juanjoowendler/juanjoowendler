@@ -13,7 +13,7 @@ src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDMzM2JnZ25nN2ZpcjdmYm5tb
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGxsNzc3dXdibnVleHp3a21raXNzOHhkcXpyYjRuZTkyY2dsNHNzNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/elMZLkey6is1lRtI7t/giphy.webp" width="150"/>
 </div>
 
-Hey You! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>  Welcome to my GitHub. I'm Juan José Wendler
+Hey You! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>  Welcome to my GitHub. I'm Juanjo
 =========================================================================================================================================
 
 Full Stack Developer and Designer 🎨💻
