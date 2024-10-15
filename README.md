@@ -27,8 +27,7 @@ I'm an advanced student in Information Systems Engineering with hands-on experie
 * 🤝  I'm open to collaborating on Engaging projects in web development, Data Science, or AI. 💡✨
 * ⚡  I love cats! 🐱💕
 
-<a href="https://www.github.com/juanjoowendler" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/juanjoowendler?logo=github&style=for-the-badge&color=a855f7&labelColor=171717" /></a>
+<img src="https://komarev.com/ghpvc/?username=condorcoders&style=flat-square&color=blue" alt=""/>
 
 ### Skills
 
