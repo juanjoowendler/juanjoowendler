@@ -32,7 +32,8 @@ Full Stack Developer and Designer 🎨💻
 
 ## About Me 🌍
 
-<img align="right" src="https://i.pinimg.com/originals/e8/55/4a/e8554a57c9ef57a856901f1b9add36a0.gif" />
+<img align="right" src="https://i.pinimg.com/originals/e8/55/4a/e8554a57c9ef57a856901f1b9add36a0.gif" width="400" height="300" />
+
 
 
 🌍 I'm based in Argentina 🔵⚪🔵  
