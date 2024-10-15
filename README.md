@@ -16,10 +16,18 @@ src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDMzM2JnZ25nN2ZpcjdmYm5tb
 Hey You! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>  Welcome to my GitHub. I'm Juanjo
 =========================================================================================================================================
 
+
+
+
+
 Full Stack Developer and Designer 🎨💻
 --------------------------------------
 
 > I'm an advanced student in Information Systems Engineering with hands-on experience in Full Stack development and design. I've worked on projects utilizing React, Node.js, > and Python, and I'm passionate about exploring new technologies and methodologies. I thrive on solving complex problems and enjoy collaborating on innovative projects. 🚀 ✨
+
+<div align="center">
+  <img src="./github-header-image.png" alt="Header">
+</div>
 
 ## About Me 🌍
 
