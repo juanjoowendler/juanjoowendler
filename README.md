@@ -50,7 +50,8 @@ Full Stack Developer and Designer 🎨💻
 <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" width="36" height="36" alt="Excel" /></a>
 <a href="https://www.haskell.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/haskell.png" width="36" height="36" alt="Haskell" /></a>
   <a href="https://www.swi-prolog.org/" target="_blank" rel="noreferrer"><img src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/prolog.png" width="36" height="36" alt="Prolog" /></a><a href="https://www.smalltalk.org/" target="_blank" rel="noreferrer"><img src="https://miro.medium.com/v2/resize:fit:600/1*5IWd4GcFZ9RS0CqsvZsMlA.png" width="36" height="36" alt="Smalltalk" /></a><a href="https://www.canva.com/" target="_blank" rel="noreferrer"><img src="https://www.educativa.com/wp-content/uploads/2016/04/7416-canva.png" width="36" height="36" alt="Canva" /></a><a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8Duc3V_o6JrEL2HghdQ8p1A0kPwGbrLaENivFiV7D3-mfPVSu9wIYI3j9gxaHHgWSSE4&usqp=CAU" width="36" height="36" alt="Postman" /></a>
-
+<a href="https://openai.com/chatgpt" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="36" height="36" alt="ChatGPT" /> </a>
+  
 </p>
 
 
