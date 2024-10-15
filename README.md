@@ -55,6 +55,18 @@ Full Stack Developer and Designer 🎨💻
   <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" width="36" height="36" alt="Excel" />
 </a>
 
+  <a href="https://www.haskell.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/haskell.png" width="36" height="36" alt="Haskell" />
+  </a>
+  <a href="https://www.swi-prolog.org/" target="_blank" rel="noreferrer">
+    <img src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/prolog.png" width="36" height="36" alt="Prolog" />
+  </a>
+  <a href="https://www.smalltalk.org/" target="_blank" rel="noreferrer">
+    <img src="https://miro.medium.com/v2/resize:fit:600/1*5IWd4GcFZ9RS0CqsvZsMlA.png" width="36" height="36" alt="Smalltalk" />
+  </a>
+
+
+
 </p>
 
 
