@@ -27,7 +27,35 @@ I'm an advanced student in Information Systems Engineering with hands-on experie
 * 🤝  I'm open to collaborating on Engaging projects in web development, Data Science, or AI. 💡✨
 * ⚡  I love cats! 🐱💕
 
-<img src="https://komarev.com/ghpvc/?username=condorcoders&style=flat-square&color=blue" alt=""/>
+<div id="badges">
+  
+  <a href="https://discord.com/users/_juanjoowendler" target="_blank" rel="noreferrer" style="margin-right: 8px; text-decoration: none;">
+    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
+  </a>
+  
+  <a href="https://www.github.com/juanjoowendler" target="_blank" rel="noreferrer" style="margin-right: 8px; text-decoration: none;">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
+  
+  <a href="http://www.instagram.com/_juanjoowendler" target="_blank" rel="noreferrer" style="margin-right: 8px; text-decoration: none;">
+    <img src="https://img.shields.io/badge/Instagram-%23E1306C.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/juan-josé-wendler-829145247/" target="_blank" rel="noreferrer" style="margin-right: 8px; text-decoration: none;">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.stackoverflow.com/users/16760295/juanjoowendler" target="_blank" rel="noreferrer" style="margin-right: 8px; text-decoration: none;">
+    <img src="https://img.shields.io/badge/StackOverflow-%23F48024.svg?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverflow Badge"/>
+  </a>
+  <a href="https://www.x.com/_juanjoowendler" target="_blank" rel="noreferrer" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white" alt="X Badge"/>
+  </a>
+  <a href="https://www.youtube.com/@juanjoowendler" target="_blank" rel="noreferrer" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
+  </a>
+</div>
+
+
+
 
 ### Skills
 
