@@ -23,13 +23,17 @@ Hey You! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/b
 Full Stack Developer and Designer 🎨💻
 --------------------------------------
 
-> I'm an advanced student in Information Systems Engineering with hands-on experience in Full Stack development and design. I've worked on projects utilizing React, Node.js, > and Python, and I'm passionate about exploring new technologies and methodologies. I thrive on solving complex problems and enjoy collaborating on innovative projects. 🚀 ✨
+> I'm an advanced student in Information Systems Engineering with hands-on experience in Full Stack development and design. I've worked on projects utilizing React, Node.js,  and Python, and I'm passionate about exploring new technologies and methodologies. I thrive on solving complex problems and enjoy collaborating on innovative projects. 🚀 ✨
 
 <div align="center">
   <img src="./github-header-image.png" alt="Header">
 </div>
 
+
 ## About Me 🌍
+
+<img align="right" src="https://i.pinimg.com/originals/e8/55/4a/e8554a57c9ef57a856901f1b9add36a0.gif" />
+
 
 🌍 I'm based in Argentina 🔵⚪🔵  
 ✉️ You can contact me at [juanjoowendler@gmail.com](mailto:juanjoowendler@gmail.com)  
