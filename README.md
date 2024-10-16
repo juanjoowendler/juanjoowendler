@@ -59,8 +59,8 @@ Full Stack Developer and Designer 🎨💻
 
 ### Badges 🎖️
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=juanjoowendler&theme=onedark&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)  <a href="https://github.com/juanjoowendler" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanjoowendler&langs_count=10&title_color=ffffff&text_color=64748b&icon_color=a855f7&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanjoowendler&layout=pie&theme=onedark)](https://github.com/anuraghazra/github-readme-stats) [![trophy](https://github-profile-trophy.vercel.app/?username=juanjoowendler&theme=onedark&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy) 
 
 ---
 
-<p align="center">Made with ❤️ by Juan José Wendler</p>
+<p align="center">Made with 💖 by Juan José Wendler</p>
