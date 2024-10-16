@@ -79,7 +79,7 @@ Here are some snapshots of my projects:
 
 ### Badges 🎖️
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanjoowendler&layout=pie&theme=onedark)](https://github.com/anuraghazra/github-readme-stats) [![trophy](https://github-profile-trophy.vercel.app/?username=juanjoowendler&theme=onedark&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanjoowendler&langs_count=10&layout=pie&theme=onedark)](https://github.com/anuraghazra/github-readme-stats) [![trophy](https://github-profile-trophy.vercel.app/?username=juanjoowendler&theme=onedark&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy) 
 
 
 ---
