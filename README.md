@@ -46,7 +46,8 @@ Full Stack Developer and Designer 🎨💻
 
 You can download my CV by clicking the link below:
 
-[Download CV](https://drive.google.com/file/d/1a_XpQC6_PJYOXDDN8BSqwtN3QN18DNvv/view?usp=sharing)
+* [Download CV (English)](https://drive.google.com/file/d/1a_XpQC6_PJYOXDDN8BSqwtN3QN18DNvv/view?usp=sharing)
+* [Download CV (Spanish)](https://drive.google.com/file/d/1a_XpQC6_PJYOXDDN8BSqwtN3QN18DNvv/view?usp=sharing) 
 
 ### Expertise and Technologies 🔍
 
