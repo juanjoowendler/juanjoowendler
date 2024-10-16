@@ -26,7 +26,7 @@ Full Stack Developer and Designer 🎨💻
 > I'm an advanced student in Information Systems Engineering with hands-on experience in Full Stack development and design. I've worked on projects utilizing React, Node.js,  and Python, and I'm passionate about exploring new technologies and methodologies. I thrive on solving complex problems and enjoy collaborating on innovative projects. 🚀 ✨
 
 <div align="center">
-  <img src="./github-header-image.png" alt="Header">
+  <img src="banner.gif" alt="Header">
 </div>
 
 
