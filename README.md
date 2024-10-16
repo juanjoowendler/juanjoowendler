@@ -42,7 +42,11 @@ Full Stack Developer and Designer 🎨💻
 🤝 I'm open to collaborating on engaging projects in web development, data science, or AI. 💡✨  
 ⚡ I love cats! 🐱💕
 
+## Download My CV 📄
 
+You can download my CV by clicking the link below:
+
+[Download CV](https://drive.google.com/file/d/1e6F2RYyEXeAx0cK02R_EANghZEpploJg/view?usp=sharing)
 
 ### Expertise and Technologies 🔍
 
