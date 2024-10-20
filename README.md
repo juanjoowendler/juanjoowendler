@@ -67,20 +67,20 @@ You can download my CV by clicking the link below:
 Here are some snapshots of my projects:
 
 <p align="center">
-  <img src="collage/allowed-project-pics/utnflix-crud/img3.png" alt="Project 1" width="500" height="300">
-  <img src="collage/allowed-project-pics/utnflix-crud/img1.png" alt="Project 1" width="500" height="300">
-  <img src="collage/allowed-project-pics/utnflix-crud/img4.png" alt="Project 1" width="500" height="300">
-  <img src="collage/allowed-project-pics/utnflix-crud/img5.png" alt="Project 1" width="500" height="300">
+  <img src="collage/allowed-project-pics/utnflix-crud/img3.png" alt="Project 1" width="600" height="350">
+  <img src="collage/allowed-project-pics/utnflix-crud/img1.png" alt="Project 1" width="600" height="350">
+  <img src="collage/allowed-project-pics/utnflix-crud/img4.png" alt="Project 1" width="600" height="350">
+  <img src="collage/allowed-project-pics/utnflix-crud/img5.png" alt="Project 1" width="600" height="350">
   
-  <img src="collage/allowed-project-pics/ivr-system/v1/c1.png" alt="Project 1" width="500" height="300">
-  <img src="collage/allowed-project-pics/ivr-system/v2/c1.png" alt="Project 1" width="500" height="300">
-  <img src="collage/allowed-project-pics/ivr-system/v2/c2.png" alt="Project 1" width="500" height="300">
+  <img src="collage/allowed-project-pics/ivr-system/v1/c1.png" alt="Project 2" width="600" height="350">
+  <img src="collage/allowed-project-pics/ivr-system/v2/c1.png" alt="Project 2" width="600" height="350">
+  <img src="collage/allowed-project-pics/ivr-system/v2/c2.png" alt="Project 2" width="600" height="350">
   
-  <img src="collage/allowed-project-pics/complex-las-colinas/img1.png" alt="Project 1" width="500" height="300">
-  <img src="collage/allowed-project-pics/complex-las-colinas/img4.png" alt="Project 1" width="500" height="300">
-  <img src="collage/allowed-project-pics/complex-las-colinas/img5.png" alt="Project 1" width="500" height="300">
+  <img src="collage/allowed-project-pics/complex-las-colinas/img1.png" alt="Project 3" width="600" height="350">
+  <img src="collage/allowed-project-pics/complex-las-colinas/img4.png" alt="Project 3" width="600" height="350">
+  <img src="collage/allowed-project-pics/complex-las-colinas/img5.png" alt="Project 3" width="600" height="350">
 
-  <img src="collage/allowed-project-pics/technical-documentation-page/img1.png" alt="Project 1" width="500" height="300">
+  <img src="collage/allowed-project-pics/technical-documentation-page/img1.png" alt="Project 4" width="500" height="300">
 </p>
 
 
