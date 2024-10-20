@@ -80,7 +80,7 @@ Here are some snapshots of my projects:
   <img src="collage/allowed-project-pics/complex-las-colinas/img4.png" alt="Project 3" width="600" height="350">
   <img src="collage/allowed-project-pics/complex-las-colinas/img5.png" alt="Project 3" width="600" height="350">
 
-  <img src="collage/allowed-project-pics/technical-documentation-page/img1.png" alt="Project 4" width="500" height="300">
+  <img src="collage/allowed-project-pics/technical-documentation-page/img1.png" alt="Project 4" width="600" height="350">
 </p>
 
 
