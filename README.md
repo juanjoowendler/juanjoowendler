@@ -62,17 +62,25 @@ You can download my CV by clicking the link below:
 
 <p align="left"> <a href="https://www.codepen.io/https://codepen.io/_juanjoowendler" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /> </picture> </a> <a href="https://discord.com/users/_juanjoowendler" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/juanjoowendler" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/_juanjoowendler" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/juan-josé-wendler-829145247/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.stackoverflow.com/users/16760295/juanjoowendler" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/_juanjoowendler" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a> <a href="https://www.youtube.com/@juanjoowendler" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /> </picture> </a></p>
 
-### My Work Showcase 📸
+### My Work Showcase 📸 
 
 Here are some snapshots of my projects:
 
 <p align="center">
-  <img src="collage/cf.jpg" alt="Project 1" width="300" height="300">
-  <img src="collage/c2.jpg" alt="Project 2" width="300" height="300">
-  <img src="collage/c3.jpg" alt="Project 3" width="300" height="300">
-  <img src="collage/c4.jpg" alt="Project 4" width="300" height="300">
-  <img src="collage/c5.jpg" alt="Project 5" width="300" height="300">
-  <img src="collage/c6.jpg" alt="Project 6" width="300" height="300">
+  <img src="collage/allowed-project-pics/utnflix-crud/img3.png" alt="Project 1" width="500" height="300">
+  <img src="collage/allowed-project-pics/utnflix-crud/img1.png" alt="Project 1" width="500" height="300">
+  <img src="collage/allowed-project-pics/utnflix-crud/img4.png" alt="Project 1" width="500" height="300">
+  <img src="collage/allowed-project-pics/utnflix-crud/img5.png" alt="Project 1" width="500" height="300">
+  
+  <img src="collage/allowed-project-pics/ivr-system/v1/c1.png" alt="Project 1" width="500" height="300">
+  <img src="collage/allowed-project-pics/ivr-system/v2/c1.png" alt="Project 1" width="500" height="300">
+  <img src="collage/allowed-project-pics/ivr-system/v2/c2.png" alt="Project 1" width="500" height="300">
+  
+  <img src="collage/allowed-project-pics/complex-las-colinas/img1.png" alt="Project 1" width="500" height="300">
+  <img src="collage/allowed-project-pics/complex-las-colinas/img4.png" alt="Project 1" width="500" height="300">
+  <img src="collage/allowed-project-pics/complex-las-colinas/img5.png" alt="Project 1" width="500" height="300">
+
+  <img src="collage/allowed-project-pics/technical-documentation-page/img1.png" alt="Project 1" width="500" height="300">
 </p>
 
 
