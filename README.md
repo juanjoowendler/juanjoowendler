@@ -68,26 +68,26 @@ Here are some snapshots of my projects (click for more👆):
 
 <p align="center">
 <p align="center">
-  <a href="https://github.com/juanjoowendler/utn-project-utnflix">
+  <a href="https://github.com/juanjoowendler/utn-project-utnflix" target="_blank">
     <img src="collage/allowed-project-pics/utnflix-crud/img3.png" alt="Project 1" width="600" height="350">
     <img src="collage/allowed-project-pics/utnflix-crud/img1.png" alt="Project 1" width="600" height="350">
     <img src="collage/allowed-project-pics/utnflix-crud/img4.png" alt="Project 1" width="600" height="350">
     <img src="collage/allowed-project-pics/utnflix-crud/img5.png" alt="Project 1" width="600" height="350">
   </a>
 
-  <a href="https://github.com/juanjoowendler/utn-project-IVR-System">
+  <a href="https://github.com/juanjoowendler/utn-project-IVR-System" target="_blank">
     <img src="collage/allowed-project-pics/ivr-system/v1/c1.png" alt="Project 2" width="600" height="350">
     <img src="collage/allowed-project-pics/ivr-system/v2/c1.png" alt="Project 2" width="600" height="350">
     <img src="collage/allowed-project-pics/ivr-system/v2/c2.png" alt="Project 2" width="600" height="350">
   </a>
 
-  <a href="https://github.com/juanjoowendler/project-las-colinas">
+  <a href="https://github.com/juanjoowendler/project-las-colinas" target="_blank">
     <img src="collage/allowed-project-pics/complex-las-colinas/img1.png" alt="Project 3" width="600" height="350">
     <img src="collage/allowed-project-pics/complex-las-colinas/img4.png" alt="Project 3" width="600" height="350">
     <img src="collage/allowed-project-pics/complex-las-colinas/img5.png" alt="Project 3" width="600" height="350">
   </a>
 
-  <a href="https://github.com/juanjoowendler/personal-projects-frontend">
+  <a href="https://github.com/juanjoowendler/personal-projects-frontend" target="_blank">
     <img src="collage/allowed-project-pics/technical-documentation-page/img1.png" alt="Project 4" width="600" height="350">
   </a>
 </p>
