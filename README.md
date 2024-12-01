@@ -10,23 +10,29 @@ I’m an Information Systems Engineering student with hands-on experience in Ful
   <img src="banner.gif" alt="Header">
 </div>
 
-
-<h2 align="center"></h2>
-<h3 align="center">ABOUT ME</h3>
-
-🌍 I'm based in Argentina 
-✉️ You can contact me at [juanjoowendler@gmail.com](mailto:juanjoowendler@gmail.com)  
-🧠 I'm learning new technologies and frameworks in the development field.
-🤝 I'm open to work on engaging projects in web development, data science, or AI. 
-🐱 I love cats! 
-
 <h2 align="center"></h2>
 <h3 align="center">DOWNLOAD CV</h3>
 
-You can download my CV by clicking the links below:
+📄 You can download my CV by clicking the links below:
 
-* [Download CV (English)]()
-* [Download CV (Spanish)]() 
+<div align="center">
+  <table>
+    <tr>
+      <th><strong>Language</strong></th>
+      <th><strong>Link</strong></th>
+    </tr>
+    <tr>
+      <td>English</td>
+      <td><a href="#">Download</a></td>
+    </tr>
+    <tr>
+      <td>Spanish</td>
+      <td><a href="#">Download</a></td>
+    </tr>
+  </table>
+</div>
+
+
 
 <h2 align="center"></h2>
 <h3 align="center">SKILLS</h3>
@@ -36,11 +42,43 @@ You can download my CV by clicking the links below:
 <h2 align="center"></h2>
 <h3 align="center">PROJECTS</h3>
 
-📂 You can check some of my recents projects by clicking in the repositories just below this page.
+📂 You can check some of my recents projects by clicking in the repositories just below. Here are some of them:
+
+<div align="center">
+  <table>
+    <tr>
+      <th><strong>Project</strong></th>
+      <th><strong>Technologies</strong></th>
+      <th><strong>Link</strong></th>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/juanjoowendler/car-agency">Car Agency: Backend System for Used Car Sales</a></td>
+      <td>Java, Spring Boot, Microservices, SQLite, APIs, GitHub, Agile Methodologies</td>
+      <td><a href="https://github.com/juanjoowendler/car-agency">Visit</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/juanjoowendler/utn-project-IVR-System">Interactive Voice Response (IVR) System</a></td>
+      <td>Python, Java, Spring Boot, React.js, MySQL, PyQt5, GitHub, Trello, Linux</td>
+      <td><a href="https://github.com/juanjoowendler/utn-project-IVR-System">Visit</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/juanjoowendler/utn-project-utnflix">Node.js and React REST API for Resource Management</a></td>
+      <td>Node.js, Express, Sequelize, SQLite, React, Axios, Bootstrap, GitHub, GitLab, Postman</td>
+      <td><a href="https://github.com/juanjoowendler/utn-project-utnflix">Visit</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/juanjoowendler/colinas-cabins">Static Web Pages</a></td>
+      <td>HTML5, CSS3, Photoshop, Web Design, GitHub</td>
+      <td><a href="https://github.com/juanjoowendler/colinas-cabins">Visit</a></td>
+    </tr>
+  </table>
+</div>
+
 
 <h2 align="center"></h2>
 <h3 align="center">CONTACT INFO</h3>
 
-<p align="center"> <a href="https://www.codepen.io/https://codepen.io/_juanjoowendler" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /> </picture> </a> <a href="https://discord.com/users/_juanjoowendler" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/juanjoowendler" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/_juanjoowendler" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/juan-josé-wendler-829145247/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.stackoverflow.com/users/16760295/juanjoowendler" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/_juanjoowendler" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a> <a href="https://www.youtube.com/@juanjoowendler" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /> </picture> </a></p>
+<p align="center"> <a href="https://discord.com/users/_juanjoowendler" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/_juanjoowendler" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/juan-josé-wendler-829145247/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/_juanjoowendler" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a> </p>
 
+ [juanjoowendler@gmail.com](mailto:juanjoowendler@gmail.com)
 <p align="center">Made with 💖 by Juan José Wendler</p>
