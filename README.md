@@ -6,10 +6,6 @@
 
 I’m an Information Systems Engineering student with hands-on experience in Full Stack development. I’ve built systems using React, Node.js, Spring Boot, and Python, and I thrive in collaborative environments where I can solve problems and learn new technologies quickly. 🚀 ✨
 
-<div align="center">
-  <img src="banner.gif" alt="Header">
-</div>
-
 <h2 align="center"></h2>
 <h3 align="center">⚡ FAST MENU ⚡</h3>
 
