@@ -31,7 +31,7 @@ I’m an Information Systems Engineering student with hands-on experience in Ful
     </tr>
     <tr>
       <td>Portfolio</td>
-      <td><a href="https://portfoliojjw.vercel.app/">Website</a></td>
+      <td><a href="https://portfoliojjw.vercel.app/">Visit</a></td>
     </tr>
   </table>
 </div>
