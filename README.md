@@ -11,7 +11,7 @@ I’m an Information Systems Engineering student with hands-on experience in Ful
 </div>
 
 <h2 align="center"></h2>
-<h3 align="center">DOWNLOAD CV</h3>
+<h3 align="center">⚡ FAST MENU ⚡</h3>
 
 🌐 You can either download my CV or check my Portfolio by clicking the links below:
 
