@@ -13,7 +13,7 @@ I’m an Information Systems Engineering student with hands-on experience in Ful
 <h2 align="center"></h2>
 <h3 align="center">DOWNLOAD CV</h3>
 
-📄 You can download my CV by clicking the links below:
+🌐 You can either download my CV or check my Portfolio by clicking the links below:
 
 <div align="center">
   <table>
@@ -28,6 +28,10 @@ I’m an Information Systems Engineering student with hands-on experience in Ful
     <tr>
       <td>Spanish</td>
       <td><a href="https://drive.google.com/file/d/1POkhOVglBhNlyqU3666pAoEBkDe4ZUO6/view?usp=sharing">Download</a></td>
+    </tr>
+    <tr>
+      <td>Portfolio</td>
+      <td><a href="https://portfoliojjw.vercel.app/">Website</a></td>
     </tr>
   </table>
 </div>
