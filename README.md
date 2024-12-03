@@ -19,11 +19,11 @@ I’m an Information Systems Engineering student with hands-on experience in Ful
     </tr>
     <tr>
       <td>English</td>
-      <td><a href="https://drive.google.com/file/d/16MBrSQ5Twg43Jjbd8v-O3HEIZ2zqLjiH/view?usp=sharing">Download</a></td>
+      <td><a href="https://drive.google.com/file/d/1wvtRVjxZjKhFEyAvunw5-xa4Kpa0OQPY/view?usp=sharing">Download</a></td>
     </tr>
     <tr>
       <td>Spanish</td>
-      <td><a href="https://drive.google.com/file/d/1POkhOVglBhNlyqU3666pAoEBkDe4ZUO6/view?usp=sharing">Download</a></td>
+      <td><a href="https://drive.google.com/file/d/1SJXpeqbg2uXeF4gtfjpORzcxqclG07hs/view?usp=sharing">Download</a></td>
     </tr>
     <tr>
       <td>Portfolio</td>
