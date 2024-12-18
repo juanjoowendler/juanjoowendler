@@ -7,7 +7,7 @@
 I’m an Information Systems Engineering student with hands-on experience in Full Stack development. I’ve built systems using React, Node.js, Spring Boot, and Python, and I thrive in collaborative environments where I can solve problems and learn new technologies quickly. 🚀 ✨
 
 <h2 align="center"></h2>
-<h3 align="center">⚡ FAST MENU ⚡</h3>
+<h3 align="center">⚡ FAST MENU⚡</h3>
 
 🌐 You can either download my CV or check my Portfolio by clicking the links below:
 
@@ -30,6 +30,9 @@ I’m an Information Systems Engineering student with hands-on experience in Ful
       <td><a href="https://portfoliojjw.vercel.app/">Visit</a></td>
     </tr>
   </table>
+
+  
+  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=juanjoowendler&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=juanjoowendler&redirect=true)
 </div>
 
 
