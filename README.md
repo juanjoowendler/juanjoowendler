@@ -5,7 +5,7 @@
 <h1>JR. FULL STACK DEVELOPER 🎨💻</h1>
 
 
-I’m an Information Systems Engineering student with hands-on experience in Full Stack development. I’ve built systems using React, Node.js, Spring Boot, and Python, and I thrive in collaborative environments where I can solve problems and learn new technologies quickly. 🚀 ✨
+I’m an Information Systems Engineering student with experience in software development and problem-solving across full-stack technologies. I enjoy creating efficient, user-friendly systems and exploring innovative solutions to complex challenges. 🚀✨
 
 <div align="center">
 
