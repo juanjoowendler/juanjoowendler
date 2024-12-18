@@ -2,7 +2,7 @@
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGxsNzc3dXdibnVleHp3a21raXNzOHhkcXpyYjRuZTkyY2dsNHNzNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/elMZLkey6is1lRtI7t/giphy.webp" width="150"/>
 </div>
 
-<h1>JUNIOR WEB FULL STACK DEVELOPER & DESIGNER 🎨💻</h1>
+<h1>JR. FULL STACK DEVELOPER 🎨💻</h1>
 
 
 I’m an Information Systems Engineering student with hands-on experience in Full Stack development. I’ve built systems using React, Node.js, Spring Boot, and Python, and I thrive in collaborative environments where I can solve problems and learn new technologies quickly. 🚀 ✨
