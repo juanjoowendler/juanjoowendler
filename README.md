@@ -8,7 +8,8 @@
 I’m an Information Systems Engineering student with experience in software development and problem-solving across full-stack technologies. I enjoy creating efficient, user-friendly systems and exploring innovative solutions to complex challenges. Outside of work, I love cats, music, and cool, breezy days. 🐱🎶🌿
 
 <div align="center">
-
+♫ Recently played tracks:
+  
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=juanjoowendler&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=juanjoowendler&redirect=true)
   
 </div>
