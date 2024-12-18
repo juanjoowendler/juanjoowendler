@@ -5,7 +5,7 @@
 <h1>JR. FULL STACK DEVELOPER 🎨💻</h1>
 
 
-I’m an Information Systems Engineering student with experience in software development and problem-solving across full-stack technologies. I enjoy creating efficient, user-friendly systems and exploring innovative solutions to complex challenges. 🚀✨
+I’m an Information Systems Engineering student with experience in software development and problem-solving across full-stack technologies. I enjoy creating efficient, user-friendly systems and exploring innovative solutions to complex challenges. Outside of work, I love cats, music, and cool, breezy days. 🐱🎶🌿
 
 <div align="center">
 
