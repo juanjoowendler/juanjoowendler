@@ -2,7 +2,7 @@
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGxsNzc3dXdibnVleHp3a21raXNzOHhkcXpyYjRuZTkyY2dsNHNzNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/elMZLkey6is1lRtI7t/giphy.webp" width="150"/>
 </div>
 
-<h1>JR. FULL STACK DEVELOPER 🎨💻</h1>
+<h1>Welcome 🤠</h1>
 
 
 I’m an Information Systems Engineering student with experience in software development and problem-solving across full-stack technologies. I enjoy creating efficient, user-friendly systems and exploring innovative solutions to complex challenges. Outside of work, I love cats, music, and cool, breezy days. 🐱🎶🌿
