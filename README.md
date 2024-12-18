@@ -74,6 +74,14 @@ I’m an Information Systems Engineering student with hands-on experience in Ful
   </table>
 </div>
 
+<h2 align="center"></h2>
+<h3 align="center">SUMMARY</h3>
+
+  <p align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=juanjoowendler&include_all_commits=true&show_icons=true&theme=radical" height="200">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanjoowendler&layout=compact&hide=css&theme=radical" alt="Intellij" height="200">
+  </p>
+
 
 <h2 align="center"></h2>
 <h3 align="center">CONTACT INFO</h3>
