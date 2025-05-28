@@ -1,8 +1,8 @@
-<div id="header" align="right">
+<div id="header" align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWJpMGFuc2ExazFuYW1nc3o1b3YzbmF6M21lMXN4OWQ0ajY0bnc2MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/pkQEClOOFjJhAxGL5L/giphy.gif" width="150"/>
 </div>
 
-<h1 align="left"><b>Hi, I'm Juan José </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi, I'm Juan José </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 
 I’m an Advanced Information Systems Engineering student with experience in software development and problem-solving across full-stack technologies. I enjoy creating efficient, user-friendly systems and exploring innovative solutions to complex challenges. I love cats, music, and cool, breezy days. 🐱🎶🌿
