@@ -109,18 +109,20 @@ I’m an Advanced Information Systems Engineering student with experience in sof
 
 <h3 align="center">SUMMARY</h3>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=juanjoowendler&show_icons=true&theme=tokyonight&count_private=true&hide_title=true&hide_border=true&include_all_commits=true" height="190"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=martinxr250&theme=tokyonight&hide_border=true" height="190"/>
-</p>
+<div display="flex" align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=juanjoowendler&show_icons=true&theme=tokyonight&count_private=true&hide_title=true&hide_border=true&include_all_commits=true" height="170"/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanjoowendler&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="160"/>
-</p>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=martinxr250&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=juanjoowendler&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanjoowendler&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170"/>
+</div>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=juanjoowendler&theme=tokyonight" />
-</p>
+
+
+
+
+
+
 
 
 <h2 align="center"></h2>
