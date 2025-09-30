@@ -57,7 +57,7 @@
   <img src="https://img.shields.io/badge/Spanish (Native)-4285F4?style=for-the-badge&logo=googletranslate&logoColor=white">
   
   <a href="https://cert.efset.org/en/Sd4LCm">
-    <img src="https://img.shields.io/badge/English (C1 Advanced)-4285F4?style=for-the-badge&logo=googletranslate&logoColor=white">
+    <img src="https://img.shields.io/badge/English (B2)-4285F4?style=for-the-badge&logo=googletranslate&logoColor=white">
   </a>  
 </span>
 
