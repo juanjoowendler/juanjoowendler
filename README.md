@@ -18,7 +18,7 @@
     </tr>
     <tr>
       <td>English</td>
-      <td><a href="https://drive.google.com/file/d/1_Jot4-9m3mQHIYmm-NK6PKLEuWhwazV-/view?usp=sharing">Download</a></td>
+      <td><a href="https://drive.google.com/file/d/1kF-Flp6YUm8enXYgeVLUCSPxdJqeGF0m/view?usp=sharing">Download</a></td>
     </tr>
     <tr>
       <td>Spanish</td>
