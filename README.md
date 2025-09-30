@@ -22,7 +22,7 @@
     </tr>
     <tr>
       <td>Spanish</td>
-      <td><a href="https://drive.google.com/file/d/11Cm4EB7LTpWdAKsd6B0gqdGy5UXpvxrt/view?usp=sharing">Download</a></td>
+      <td><a href="https://drive.google.com/file/d/1aKsAW2MVAhCCjJ_BsoEYLKsXqLSxaMS7/view?usp=sharing">Download</a></td>
     </tr>
     <tr>
       <td>Portfolio</td>
