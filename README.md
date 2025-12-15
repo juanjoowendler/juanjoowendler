@@ -4,7 +4,7 @@
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWJpMGFuc2ExazFuYW1nc3o1b3YzbmF6M21lMXN4OWQ0ajY0bnc2MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/pkQEClOOFjJhAxGL5L/giphy.gif" width="200"/>
 </div>
 
-<h1 align="left"><b>Hi, I'm Juan José </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="left"><b>Hi, I'm Juanjo</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
   
 </div>
 
