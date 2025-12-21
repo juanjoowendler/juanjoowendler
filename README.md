@@ -104,7 +104,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=martinxr250&theme=tokyonight&hide_border=true" height="170"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=juanjoowendler&theme=tokyonight" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanjoowendler&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=juanjoowendler&theme=tokyonight"/>
 
 
 </div>
