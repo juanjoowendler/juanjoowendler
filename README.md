@@ -18,11 +18,11 @@
     </tr>
     <tr>
       <td>English</td>
-      <td><a href="https://drive.google.com/file/d/1kF-Flp6YUm8enXYgeVLUCSPxdJqeGF0m/view?usp=sharing">Download</a></td>
+      <td><a href="https://drive.google.com/file/d/1gIMbSKAefUnXT3bkl0gfRx_EOakrMwWy/view?usp=sharing">Download</a></td>
     </tr>
     <tr>
       <td>Spanish</td>
-      <td><a href="https://drive.google.com/file/d/1aKsAW2MVAhCCjJ_BsoEYLKsXqLSxaMS7/view?usp=sharing">Download</a></td>
+      <td><a href="https://drive.google.com/file/d/1ghvuPY-rE9x8aF8z6fXr5eRghyokZwYf/view?usp=sharing">Download</a></td>
     </tr>
     <tr>
       <td>Portfolio</td>
