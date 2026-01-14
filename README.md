@@ -18,15 +18,15 @@
     </tr>
     <tr>
       <td>English</td>
-      <td><a href="https://drive.google.com/file/d/1gIMbSKAefUnXT3bkl0gfRx_EOakrMwWy/view?usp=sharing">Download</a></td>
+      <td><a href="https://drive.google.com/file/d/1Qm02UwY2-fqRD53h-31OkLpv-JCd0N1N/view?usp=sharing">Download</a></td>
     </tr>
     <tr>
       <td>Spanish</td>
-      <td><a href="https://drive.google.com/file/d/1ghvuPY-rE9x8aF8z6fXr5eRghyokZwYf/view?usp=sharing">Download</a></td>
+      <td><a href="https://drive.google.com/file/d/1iz80SzJzXKTPe_jvwZYpOn1Qul_xlZQw/view?usp=sharing">Download</a></td>
     </tr>
     <tr>
       <td>Portfolio</td>
-      <td><a href="https://portfoliojjw.vercel.app/">Visit</a></td>
+      <td><a href="https://tinyurl.com/view-portfolio-english-lang">Visit</a></td>
     </tr>
   </table>
 </div>
