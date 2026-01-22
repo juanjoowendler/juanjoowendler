@@ -18,7 +18,7 @@ See all my projects here: [Visit](https://colossal-red-393.notion.site/Juan-Jos-
 
 You can email me or contact me through any of my social media accounts, I will respond as soon as possible.
 
-[LinkedIn](https://www.linkedin.com/in/juanjoowendler/) · [GitHub](https://github.com/juanjoowendler) · [Instagram](https://www.instagram.com/_juanjoowendler/) · [WhatsApp](https://api.whatsapp.com/send?phone=3541355745) · [Email](mailto:juanjoowendler@gmail.com) · [Discord](https://discord.com/users/@me/351178635325079553)
+[LinkedIn](https://www.linkedin.com/in/juanjoowendler/) · [GitHub](https://github.com/juanjoowendler) · [WhatsApp](https://api.whatsapp.com/send?phone=3541355745) · [Discord](https://discord.com/users/@me/351178635325079553) · [juanjoowendler@gmail.com](mailto:juanjoowendler@gmail.com) 
 
 
 
