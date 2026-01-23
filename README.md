@@ -6,9 +6,9 @@ Final year student of Information Systems Engineering, with a strong interest in
 
 ### Menu
 
-- Download my resume in English: [Download](https://drive.google.com/file/d/1Qm02UwY2-fqRD53h-31OkLpv-JCd0N1N/view?usp=sharing)
-- Download my resume in Spanish: [Download](https://drive.google.com/file/d/1iz80SzJzXKTPe_jvwZYpOn1Qul_xlZQw/view?usp=sharing)
-- Take a look to my portfolio: [Visit](https://tinyurl.com/view-portfolio-english-lang)
+- Download my resume in English: [Download](https://drive.google.com/file/d/1Eb-R_gtGSAvm7B8JC8_JEtqcQBbS_8sw/view?usp=sharing)
+- Download my resume in Spanish: [Download](https://drive.google.com/file/d/1z61gMsOgr3l9w3o753RCP1C7onfl7IO6/view?usp=sharing)
+- Take a look to my portfolio: [Visit](https://colossal-red-393.notion.site/Juan-Jos-Wendler-2e8d372a7c998074bc48dcf0ddd330e9?pvs=143)
 
 ### Projects 
 
