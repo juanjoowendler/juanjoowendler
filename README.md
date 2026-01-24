@@ -4,10 +4,8 @@
 
 Final year student of Information Systems Engineering, with a strong interest in Backend development and practical experience in academic and personal Full-Stack projects.
 
-### Menu
+### Portfolio
 
-- Download my resume in English: [Download](https://drive.google.com/file/d/1kc6rD1ru6309lSEmhd6hFtHvYQ3hgFz-/view?usp=sharing)
-- Download my resume in Spanish: [Download](https://drive.google.com/file/d/1kYCYZ29zc0nCHDIrtF9KZhHOd80yyODL/view?usp=sharing)
 - Take a look to my portfolio: [Visit](https://colossal-red-393.notion.site/Juan-Jos-Wendler-2e8d372a7c998074bc48dcf0ddd330e9?pvs=143)
 
 ### Projects 
