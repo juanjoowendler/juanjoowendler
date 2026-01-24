@@ -2,15 +2,11 @@
 
 # Hello, I'm Juanjo
 
-Final year student of Information Systems Engineering, with a strong interest in Backend development and practical experience in academic and personal Full-Stack projects.
+I am a final-year student of Information Systems Engineering. My professional interests are to specialize in either Backend Software Development or Data Science. I am seeking my first opportunity in IT as a Trainee or Junior to build and consolidate my professional career. I have real hands-on experience in personal and academic projects, and a strong conversational level of English.
 
 ### Portfolio
 
-- Take a look to my portfolio: [Visit](https://colossal-red-393.notion.site/Juan-Jos-Wendler-2e8d372a7c998074bc48dcf0ddd330e9?pvs=143)
-
-### Projects 
-
-See all my projects here: [Visit](https://colossal-red-393.notion.site/Juan-Jos-Wendler-2e8d372a7c998074bc48dcf0ddd330e9?pvs=97#2e8d372a7c998178b92fed432d885ece)
+Take a look to all my projects in my portfolio: [Visit](https://colossal-red-393.notion.site/Juan-Jos-Wendler-2e8d372a7c998074bc48dcf0ddd330e9?pvs=143)
 
 ### Contact 
 
