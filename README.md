@@ -2,7 +2,7 @@
 
 # Hello, I'm Juanjo
 
-I am a final-year student of Information Systems Engineering. My professional interests are to specialize in either Backend Software Development or Data Science. I am seeking my first opportunity in IT as a Trainee or Junior to build and consolidate my professional career. I have real hands-on experience in personal and academic projects, and a strong conversational level of English.
+I am a final-year student of Information Systems Engineering, my professional interests are Backend Software Development and Data Science. I have hands-on experience from real academic and personal projects, and I have a solid conversational level of English.
 
 ### Portfolio
 
